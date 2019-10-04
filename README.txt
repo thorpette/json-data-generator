@@ -9,3 +9,6 @@ mvn clean deploy -P release
 mvn versions:set -DnewVersion=1.1-SNAPSHOT
 git add .
 git commit -m "preparing for development version 1.1"
+
+
+gittt
